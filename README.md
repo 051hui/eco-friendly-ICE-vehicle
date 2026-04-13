@@ -38,10 +38,9 @@
 - 팀장으로서 프로젝트 전체 방향 설정 및 일정 관리
 - 역할 분배 및 분석 프로세스(기획 → 전처리 → 분석 → 인사이트 도출) 구조화
 - 주요 변수 분석 결과 해석 및 인사이트 도출 참여
-
 👉 데이터 기반 의사결정 구조를 설계하고 팀의 분석 방향을 리딩
 
-🛠 Tech Stack
-Python (Pandas, Numpy)
-Matplotlib / Seaborn
-Jupyter Notebook
+## 🛠 Tech Stack
+- Python (Pandas, Numpy)
+- Matplotlib / Seaborn
+- Jupyter Notebook
